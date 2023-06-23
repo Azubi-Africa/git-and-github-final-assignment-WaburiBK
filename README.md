@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Mortgage Calculator             |  Calculate your own mortgage rates here             | https://github.com/WaburiBK/mortgage-calculator       |
+| 2 |   Sales and Operations Planning            |  Professionally manage the sales and operations planning of your business             | https://github.com/WaburiBK/sales-and-operations-planning       |
+| 3 |  Ceaser's Cypher Decryption             |  Learn how to encrypt and decrypt simple messages             | https://github.com/WaburiBK/Caesars-Cipher-Decryption       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
